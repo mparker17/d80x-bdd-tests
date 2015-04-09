@@ -1,0 +1,15 @@
+{
+    "name": "mparker17/d80x-bdd-tests",
+    "description": "A sandbox for testing Drupal 8.0.x with Behat.",
+    "require": {
+        "behat/behat": "~3.0",
+        "drupal/drupal-extension": "~3.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "M Parker",
+            "email": "mparker17@536298.no-reply.drupal.org"
+        }
+    ]
+}
