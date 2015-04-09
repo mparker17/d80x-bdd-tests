@@ -14,3 +14,6 @@ default:
       base_url: http://example.com/
     Drupal\DrupalExtension:
       blackbox: ~
+      api_driver: 'drupal'
+      drupal:
+        drupal_root: '/var/www'
